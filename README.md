@@ -5,5 +5,5 @@ Flavia Mancini,Suyi Zhang, Ben Seymour
 
 [Paper ref]
 
-The experimental code was run in Matlab, and requires psychotoolbox 3, a NI DAQ and a Digitimer DS5.
+The experimental code runs in Matlab, and requires psychotoolbox 3, a NI DAQ and a Digitimer DS5.
 The experimetnt is launched by the matlab function exp_MR_1500ms(sub,sess,stimCurrent,MR_state).
