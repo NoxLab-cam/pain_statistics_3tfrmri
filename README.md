@@ -20,16 +20,16 @@ For imaging analysis,
 * imaging (1st and 2nd level analysis scripts based on nipype)
 * imaging_plot (result visualisation using nilearn)
 
-Please change data paths and parameter settings within the scripts. The analysis code is written by Suyi Zhang and can also be found on her GitHub page: https://github.com/syzhang/tsl_paper
+Please change data paths and parameter settings within the scripts. The analysis code is written by Suyi Zhang and can also be found on [her GitHub page](https://github.com/syzhang/tsl_paper).
 
 
-The raw MRI data are available here: https://openneuro.org/datasets/ds003836
+The raw MRI data are available on [OpenNeuro](https://openneuro.org/datasets/ds003836).
 
 ## Requirements
 
 To run the code for sequence generation, you will need:
 * MATLAB
-* Psychotoolbox 3 (http://psychtoolbox.org)
+* [Psychotoolbox 3](http://psychtoolbox.org)
 * a DAQ
 * a stimulus generator
 
